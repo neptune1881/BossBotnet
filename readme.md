@@ -65,8 +65,6 @@
 <br>
 <br>City: Meppel
 <br>
-<br>Gerisinide başkası bulsun bir zahmet :)
-<br>
 <br>
 <br>
 <br>Repo açıklamaları birbirine benziyor.
