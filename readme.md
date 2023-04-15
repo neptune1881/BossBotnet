@@ -33,7 +33,7 @@
 <br> https://discord.gg/2tPhNKDc
 <br>------------------------------
 <br>cheat global
-<br> cheatglobal.com(?)
+<br> cheatglobal.com (?)
 <br> https://discord.gg/774MKHjZ
 <br>------------------------------
 <br>Bilinmeyen 3. aktör (?)
