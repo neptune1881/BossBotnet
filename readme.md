@@ -69,7 +69,7 @@
 <br>URL connection attempts / URL bağlantısı yapılan adresler::
 <br>https://gist.githubusercontent.com:443/viewerboss/23497da5f0dbbb90f1fb227e8228050e/raw/con.txt
 <br>Github account tied to it / Hedef github hesabı: https://github.com/viewerboss/
-<br>
-<br>
+<br>Websites tied to it / bağlı github websitesi: bossdata.pro
+<br>Tries to access to / bu web adresine erişmeye çalışıyor: bossdata.pro/ws
 <br>Repo açıklamaları birbirine benziyor.
 <br>Repo explanation is all similiar its not just for point blank for varius game's name.
