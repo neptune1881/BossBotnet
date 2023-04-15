@@ -28,6 +28,7 @@
 <br>(?) Emin olmadığım kısımlar. Kodların birazına göz attığım için çıkarımlarım.
 <br>Bilgisayardaki twitch hesaplarına erişiyor, bot ekliyor, küçük ve büyük twitch hesaplarına farklı davranışlarda bulunuyor.
 <br>Visual studio 2010 C# ile yazılmış.
+<br>Kendisini sistem başlangıcına servis olarak ekliyor.
 <br>Yönetici seviyesinde komut satırı erişimi var (?)
 <br>Bulaştıran muhtemel zararlılar
 <br> www.pushbane.online (?)
