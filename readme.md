@@ -26,10 +26,9 @@
 <br>
 <br>Gözlemler/ Observations
 <br>(?) Emin olmadığım kısımlar. Kodların birazına göz attığım için çıkarımlarım.
-<br>Bilgisayardaki twitch hesaplarına erişiyor, bot ekliyor, küçük ve büyük twitch hesaplarına.
+<br>Bilgisayardaki twitch hesaplarına erişiyor, bot ekliyor, küçük ve büyük twitch hesaplarına farklı davranışlarda bulunuyor.
 <br>Visual studio 2010 C# ile yazılmış.
 <br>Yönetici seviyesinde komut satırı erişimi var (?)
-<br>Twitchde ki BossLayf kanalıyla bir ilgisi olabilir mi (?)
 <br>Bulaştıran muhtemel zararlılar
 <br> www.pushbane.online (?)
 <br> https://discord.gg/2tPhNKDc
