@@ -18,7 +18,7 @@
 <br>sc delete tasklogbfj.exe
 <br>Sonra dosya 1 ve 2'yi silin.
 <br>Then delete file 1 and 2.
-<br>
+<br>Reboot / Yeniden Başlat
 <br>
 <br>
 <br>To unhide:
