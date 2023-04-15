@@ -25,7 +25,7 @@
 <br>
 <br>Gözlemler/ Observations
 <br>(?) Emin olmadığım kısımlar. Kodların birazına göz attığım için çıkarımlarım.
-<br>Bilgisayardaki twitch hesaplarına erişiyor, bot ekliyor, küçük ve büyük bot hesaplarına 
+<br>Bilgisayardaki twitch hesaplarına erişiyor, bot ekliyor, küçük ve büyük twitch hesaplarına.
 <br>Visual studio 2010 C# ile yazılmış.
 <br>Yönetici seviyesinde komut satırı erişimi var (?)
 <br>Twitchde ki BossLayf kanalıyla bir ilgisi olabilir mi (?)
