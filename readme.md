@@ -62,10 +62,10 @@
 <br>City: Meppel
 <br>
 <br>URL connection attempts / URL bağlantısı yapılan adresler::
-<br>https://gist.githubusercontent.com:443/viewerboss/23497da5f0dbbb90f1fb227e8228050e/raw/con.txt
+<br> <a href="https://gist.githubusercontent.com:443/viewerboss/23497da5f0dbbb90f1fb227e8228050e/raw/con.txt">https://gist.githubusercontent.com:443/viewerboss/23497da5f0dbbb90f1fb227e8228050e/raw/con.txt</a>
+<br>=> İçeriği / Content: ws://bossdata.pro/ws
 <br>Github account tied to it / Hedef github hesabı: <a href="https://github.com/viewerboss/">https://github.com/viewerboss/</a>
-<br>Websites tied to it / bağlı github websitesi: bossdata.pro
-<br>Tries to access to / bu web adresine erişmeye çalışıyor: bossdata.pro/ws
-<br>https://www.whois.com/whois/bossdata.pro
+<br>Tries to access to / bu web adresine erişmeye çalışıyor:  <a href="https://bossdata.pro/ws">https://bossdata.pro/ws</a>
+<br> <a href="https://www.whois.com/whois/bossdata.pro">Who Is: bossdata.pro</a>
 <br>Repo açıklamaları birbirine benziyor.
 <br>Repo explanation is all similiar its not just for point blank for varius game's name.
