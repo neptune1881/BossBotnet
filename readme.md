@@ -4,6 +4,7 @@
 <br>Well if you f*ck with peoples accounts. Eventually you will hit a wrong person.
 <br>Do not download it if you dont know what you doing.
 <br>PW:12345
+<br><img src="Taskmgr.png">
 <br>Bu bir zararlı yazılımın tersine mühendislikle kaynak kodunun okunup ne yaptığını ve hangi ip adreslerini kullandığını tahmin etmeye yönelik bir repodur.
 <br>Ne yaptığınızı bilmiyorsanız indirmeyin.
 <br>Şifre: 12345
