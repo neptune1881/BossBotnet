@@ -66,6 +66,9 @@
 <br>
 <br>City: Meppel
 <br>
+<br>URL connection attempts / URL bağlantısı yapılan adresler::
+<br>https://gist.githubusercontent.com:443/viewerboss/23497da5f0dbbb90f1fb227e8228050e/raw/con.txt
+<br>Github account tied to it / Hedef github hesabı: https://github.com/viewerboss/
 <br>
 <br>
 <br>Repo açıklamaları birbirine benziyor.
