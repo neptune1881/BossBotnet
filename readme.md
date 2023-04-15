@@ -5,6 +5,7 @@
 <br>Do not download it if you dont know what you doing.
 <br>Virus origin / Virüs kaynağı ülke: Russia / Moscow
 <br>Tied up organizations / Bağlı organizasyon: BOSSDATA
+<br>Virus Total URL: https://www.virustotal.com/gui/file/48d6b6f99e3be38045825a714b6672dc537903d31d4d776d297dbb64a55c4301/detection
 <br>Domain Nameservers: chin.ns.cloudflare.com , tony.ns.cloudflare.com
 <br>PW:12345
 <br><img src="Taskmgr.png">
