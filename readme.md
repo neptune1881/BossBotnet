@@ -51,28 +51,19 @@
 <br>46.8.202.228 Amsterdam, North Holland, Netherlands
 <br>46.8.202.51 Amsterdam, North Holland, Netherlands
 <br>IP Details For: 46.8.202.228
-<br>
 <br>Decimal: 772328164
-<br>
 <br>Hostname: 46.8.202.228
-<br>
 <br>ASN: 44477
-<br>
 <br>ISP: Netart LIR K.S.
-<br>
 <br>Services: VPN Server
-<br>
 <br>Assignment: Likely Static IP
-<br>
 <br>Country: Netherlands
-<br>
 <br>State/Region: Drenthe
-<br>
 <br>City: Meppel
 <br>
 <br>URL connection attempts / URL bağlantısı yapılan adresler::
 <br>https://gist.githubusercontent.com:443/viewerboss/23497da5f0dbbb90f1fb227e8228050e/raw/con.txt
-<br>Github account tied to it / Hedef github hesabı: https://github.com/viewerboss/
+<br>Github account tied to it / Hedef github hesabı: <a href="https://github.com/viewerboss/">https://github.com/viewerboss/</a>
 <br>Websites tied to it / bağlı github websitesi: bossdata.pro
 <br>Tries to access to / bu web adresine erişmeye çalışıyor: bossdata.pro/ws
 <br>https://www.whois.com/whois/bossdata.pro
