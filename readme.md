@@ -45,7 +45,7 @@
 <br>3. Aktörün IP Adresi (VPN):
 <br>
 <br>46.8.202.228 Amsterdam, North Holland, Netherlands
-<br>
+<br>46.8.202.51 Amsterdam, North Holland, Netherlands
 <br>IP Details For: 46.8.202.228
 <br>
 <br>Decimal: 772328164
