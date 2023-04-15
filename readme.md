@@ -3,6 +3,9 @@
 <br>This is a attempt to reverse engineering a virus. 
 <br>Well if you f*ck with peoples accounts. Eventually you will hit a wrong person.
 <br>Do not download it if you dont know what you doing.
+<br>Virus origin / Virüs kaynağı ülke: Russia / Moscow
+<br>Tied up organizations / Bağlı organizasyon: BOSSDATA
+<br>Domain Nameservers: chin.ns.cloudflare.com , tony.ns.cloudflare.com
 <br>PW:12345
 <br><img src="Taskmgr.png">
 <br>Bu bir zararlı yazılımın tersine mühendislikle kaynak kodunun okunup ne yaptığını ve hangi ip adreslerini kullandığını tahmin etmeye yönelik bir repodur.
@@ -71,5 +74,6 @@
 <br>Github account tied to it / Hedef github hesabı: https://github.com/viewerboss/
 <br>Websites tied to it / bağlı github websitesi: bossdata.pro
 <br>Tries to access to / bu web adresine erişmeye çalışıyor: bossdata.pro/ws
+<br>https://www.whois.com/whois/bossdata.pro
 <br>Repo açıklamaları birbirine benziyor.
 <br>Repo explanation is all similiar its not just for point blank for varius game's name.
