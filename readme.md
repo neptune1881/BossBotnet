@@ -1,7 +1,6 @@
 <br>@ny4rlk0 => @neptune1881
 <br><a href="https://github.com/neptune1881/VirusesThatIFoundInRandomly/releases/download/BossBotnetVirusSourceCode/BossBotnetSourceCode.zip">Download Source Code</a>
 <br>This is a attempt to reverse engineering a virus. 
-<br>Well if you f*ck with peoples accounts. Eventually you will hit a wrong person.
 <br>Do not download it if you dont know what you doing.
 <br>Virus origin / Virüs kaynağı ülke: Russia / Moscow
 <br>Tied up organizations / Bağlı organizasyon: BOSSDATA
