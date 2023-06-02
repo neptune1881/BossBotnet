@@ -33,6 +33,8 @@
 <br>Visual studio 2010 C# ile yazılmış.
 <br>Kendisini sistem başlangıcına servis olarak ekliyor.
 <br>Yönetici seviyesinde komut satırı erişimi var (?)
+<br>Tarayıcıdan auth toxenlerini çalarak hesaplarınızın şifrelerin bilmeseler bile başka cihazda oturum açıp hesabınıza erişiyor.
+<br>Outlook hesabınızı farklı vpn ve zombi bilgisayarlarla bruteforce ile kırmaya çalışıyorlar.
 <br>Bulaştıran muhtemel zararlılar
 <br> www.pushbane.online (?)
 <br> https://discord.gg/2tPhNKDc
